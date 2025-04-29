@@ -62,7 +62,7 @@ footer{
         width: 100%;
     }
     #container{
-        flex-direction: column;
+        width: 100%;
     }
     #conteinerAside{
         display: flex;
