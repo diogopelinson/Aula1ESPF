@@ -65,7 +65,7 @@ footer{
         width: 100%;
     }
     #conteinerAside{
-        display: flex;
+       width: 100%;
     }
     #conteudo{
         flex: 2;
