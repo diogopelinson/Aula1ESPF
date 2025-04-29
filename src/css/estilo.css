@@ -20,6 +20,7 @@ header{
     color:wheat;
     text-align: center;
     padding: 20px;
+    width: 100%;
 }
 
 #containerAside{
@@ -53,6 +54,7 @@ footer{
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 100%;
 }
 
 @media(min-width:700px){
