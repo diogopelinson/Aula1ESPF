@@ -58,6 +58,9 @@ footer{
 }
 
 @media(min-width:700px){
+    header{
+        width: 100%;
+    }
     #container{
         flex-direction: column;
     }
@@ -69,6 +72,9 @@ footer{
     }
     aside{
         flex: 1;
+    }
+    footer{
+        width: 100%;
     }
 
 }
